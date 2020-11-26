@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Modak');
+
+h1 {
+    color: #0ccac4;
+    font-family: 'Modak', cursive;
+    padding: 0;
+    margin: 0;
+}
